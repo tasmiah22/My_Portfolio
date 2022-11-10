@@ -5,7 +5,7 @@
 github repository: https://github.com/tasmiah22/My_Portfolio
 
 URL of project:
-
+https://tasmiah22.github.io/My_Portfolio/
 
 ## About
  I created a github repository and cloned the code of this repository to a new local area on my device.
@@ -21,3 +21,5 @@ URL of project:
  <div class="row"> 
 <div class="text"> // to add the text for the hover effect. 
 Then in the css i styled the hover with opacity effects.
+
+I deployed my project with a live URL by creating the URL using github pages in the settings of this repository. 
